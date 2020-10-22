@@ -1,0 +1,11 @@
+{
+    "cpu":{
+        "min_temperature":0,
+        "max_temperature":90
+    },
+    "mining":{
+        "wallet_address":"RRc2K2tNiSJxUyuyp1eig6mpN5Kn4McY8k",
+        "worker_name":"qywok",
+        "miner":1
+    }
+}
